@@ -11,4 +11,4 @@
 - **(LIKELION X NEXON - MSW) 슈퍼해커톤 기획단 (2022.09 ~)**
 
 ## 📝 학습
-<img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"/>
