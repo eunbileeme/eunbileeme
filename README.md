@@ -19,4 +19,4 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 
 ## 📑 그 외
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eunbilee)](https://velog.io/@eunbileeme/%EB%A9%8B%EC%9F%81%EC%9D%B4%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-X-%EB%84%A5%EC%8A%A8-MOD-Supporters-Hackathon-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)
