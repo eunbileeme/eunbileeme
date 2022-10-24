@@ -12,3 +12,4 @@
 
 ## 📝 학습
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-puple?style=flat-square&logo=java&logoColor=white"/>
