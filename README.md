@@ -1,6 +1,8 @@
 # 안녕하세요, 이은비입니다.
 끊임없이 노력하는 개발자가 되겠습니다.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎓 소속
 - **을지대학교 의료IT학과 (2019.03 ~)**
 - **멋쟁이사자처럼 10기 (2022.03 ~)**
