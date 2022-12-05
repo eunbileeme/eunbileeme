@@ -10,6 +10,7 @@
 - **[PROJECTMOD X LIKELION] Supporters & Hackathon (2022.07 ~ 2022.08)**
 
    공식 및 팀 노션 : https://likelion.notion.site/MapleStory-WorldsxSupporters-6fc3154f5519419f808fb4ea8ae3f60b
+
 - **[LIKELION X NEXON] MapleStoryWorlds 슈퍼해커톤 & 기획단 (2022.09 ~ 2022.11)**
 
 1) 공식 노션 : https://worldlion.notion.site/MSW-X-Super-Hackathon-2022-861f57fc62334f9a8f7ac0372203e2f3
