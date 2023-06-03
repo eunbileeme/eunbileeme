@@ -8,7 +8,7 @@
 ## 📄 활동
 - **[교내 딥러닝 동아리] 깡통 (2019.09 ~ 2021.12)**
 - **[PROJECTMOD X LIKELION] Supporters (2022.07 ~ 2022.08)**
-- **[LIKELION X NEXON] MapleStoryWorlds 슈퍼해커톤 & 기획단 (2022.09 ~ 2022.11)**
+- **[LIKELION X NEXON] [MapleStoryWorlds 슈퍼해커톤](https://www.notion.so/MSW-efa2a0b2a5e14ba68fdf49b0e45c8455) & 기획단 (2022.09 ~ 2022.11)**
 - **[F-Lab] Mentoring (2023.04 ~ )**
 
 ## 📝 학습 
