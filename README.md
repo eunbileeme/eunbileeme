@@ -6,8 +6,8 @@
 - **F-Lab Java Backend (2023.04 ~ )**
 
 ## 📄 활동
-- **[교내 딥러닝 동아리] 깡통 (2019.09 ~ 2021.12)**
-- **[PROJECTMOD X LIKELION] Supporters (2022.07 ~ 2022.08)**
+- **[교내 딥러닝 동아리] [깡통](https://major.eulji.ac.kr/mitm/index.html?menuno=2946) (2019.09 ~ 2021.12)**
+- **[PROJECTMOD X LIKELION] [Supporters](https://maplestoryworlds.nexon.com/ko/play/6d19b095416a421ba5285585fd18bf24/badge) (2022.07 ~ 2022.08)**
 - **[LIKELION X NEXON] [MapleStoryWorlds 슈퍼해커톤](https://www.notion.so/MSW-efa2a0b2a5e14ba68fdf49b0e45c8455) & 기획단 (2022.09 ~ 2022.11)**
 - **[F-Lab] Mentoring (2023.04 ~ )**
 
