@@ -20,8 +20,3 @@
 
 ### ✏️ Tech Tool
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
-## 📑 그 외
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eunbileeme&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/eunbilleeme/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eunbileeme&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/eunbileeme/github-readme-stats#gh-light-mode-only)
-
