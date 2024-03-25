@@ -8,7 +8,8 @@
 ## 📝 학습 
 ### 📚 Tech Stack
 - Java (OpenJDK 17), Gradle, Spring Boot
-- MySQL (8.0.x), Redis
+- MySQL (8.0.x), Redis, RabbitMQ
+- Docker, JPA, Github Actions
 
 ### ✏️ Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pask220)](https://solved.ac/pask220/)
