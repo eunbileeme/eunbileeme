@@ -10,7 +10,7 @@
 ### 📚 Tech Stack
 - Java, Spring Boot
 - MySQL, MyBatis, JPA, Redis, RabbitMQ
-- Docker, Github Actions
+- Docker, Github Actions, Naver Cloud Platform, Google Cloud Platform
 
 ### ✏️ Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pask220)](https://solved.ac/pask220/)
